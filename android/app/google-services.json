@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87266031712",
+    "project_id": "academy-app-6f67e",
+    "storage_bucket": "academy-app-6f67e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87266031712:android:ff90187c0248bce09b2b05",
+        "android_client_info": {
+          "package_name": "de.speedcodes.academy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87266031712-genetq1hg64jsqludaqq9hl7reur53lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCut2ADuMxxEkmcT7SfVvYUH5SGIP1Xj3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87266031712-genetq1hg64jsqludaqq9hl7reur53lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
