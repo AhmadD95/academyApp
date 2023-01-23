@@ -23,8 +23,9 @@ language: ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoC
 
 IDE: ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge&logo=appveyor)
 
-server ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge&logo=appveyor)
+server: ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge&logo=appveyor)
 
+design: ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge&logo=appveyor)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
