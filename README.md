@@ -30,9 +30,9 @@ design: ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logo
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Authors
+## Author
+**Ahmad D.**
 
-- [@AhmadD95](https://github.com/AhmadD95)
-## 🔗 Links
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge&logo=appveyor)](https://github.com/AhmadD95)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge&logo=appveyor)](https://www.linkedin.com/in/ahmad-dahuk-b9ba8a147)
 [![Xing Badge](https://img.shields.io/badge/Xing-006567?logo=xing&logoColor=fff&style=for-the-badge&logo=appveyor)](https://www.xing.com/profile/Ahmad_Dahuk/cv)
